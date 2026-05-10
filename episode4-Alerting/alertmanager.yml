@@ -5,7 +5,7 @@ receivers:
   - name: "slack-notifications"
     slack_configs:
       - send_resolved: true
-        channel: "#devops-alerts-monitoring-subrat"
+        channel: "#devops-alerts"
         username: "PrometheusBot"
         icon_emoji: ":rotating_light:"
-        api_url: "https://hooks.slack.com/services/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"
+        api_url: "https://hooks.slack.com/services/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"
